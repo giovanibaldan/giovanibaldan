@@ -1,9 +1,16 @@
-## Hi there 👋
+<h1 align='center'>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=giovanibaldan&color=blue" alt="Profile views" /> </p>
+<br>
+<h2 align='left'>Sobre mim</h2>
+<ul align='left'></ul>
 
-<!--
-**giovanibaldan/giovanibaldan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanibaldan&layout=donut-vertical&theme=dark)](https://github.com/giovanibaldan/github-readme-stats)-->
+
+
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
