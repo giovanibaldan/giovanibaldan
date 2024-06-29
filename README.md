@@ -15,7 +15,7 @@
 <ul align='left'>
   <li>🤍 Apaixonado por tecnologia, jogos e desenvolvimento</li>
   <br>
-  <li>🌱 Atualmente no 7º semestre do bacharelado em Ciência da Computação</li>
+  <li>🌱 Atualmente no 7º semestre do meu Bacharelado em Ciência da Computação</li>
   <br>
   <li>👯 Em busca de uma vaga de estágio ou nível júnior na área de tecnologia</li>
   <br>
