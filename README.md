@@ -8,7 +8,6 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanibaldan&layout=donut-vertical&theme=dark)](https://github.com/giovanibaldan/github-readme-stats)-->
 
-
 <!--<img align=right src="https://i.gifer.com/origin/60/60120cc1d020a156a8401a3a2db12c4d.gif"
   width='350px' heigth='200px' alt='gif tech'/>-->
 <ul align='left'>
