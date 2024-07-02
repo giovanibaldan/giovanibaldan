@@ -22,7 +22,7 @@
 <br>
 
 <h2 align='left'>🛠 Tecnologias</h2>
-<table align="center" height="1000px">
+<table align="center" height="620px">
   
   <tr align='center'>
     <td>
