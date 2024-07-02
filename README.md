@@ -6,27 +6,17 @@
   <img align="right" width='350px' height='300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanibaldan&layout=donut-vertical&theme=dark" />
 </a>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanibaldan&layout=donut-vertical&theme=dark)](https://github.com/giovanibaldan/github-readme-stats)-->
-
-<!--<img align=right src="https://i.gifer.com/origin/60/60120cc1d020a156a8401a3a2db12c4d.gif"
-  width='350px' heigth='200px' alt='gif tech'/>-->
 <ul align='left'>
   <li>🤍 Apaixonado por tecnologia, jogos e desenvolvimento</li>
   <br>
   <li>🌱 Atualmente no 7º semestre do meu Bacharelado em Ciência da Computação</li>
   <br>
-  <li>👯 Em busca de uma vaga de estágio ou nível júnior na área de tecnologia</li>
+  <li>📫 Já fui empreendedor e atleta profissional de E-Sports</li>
   <br>
-  <li>🤔 Estou procurando novas experiências e desafios na área</li>
+  <li>👯 Em busca de uma vaga de estágio ou nível júnior na área de tecnologia</li>
   <br>
   <li>📚 Me aperfeiçoando em Front-end, Javascript e suas tecnologias</li>
 </ul>
-
-
-
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanibaldan&layout=donut-vertical&theme=dark)](https://github.com/giovanibaldan/github-readme-stats)-->
-
 
 <!--Here are some ideas to get you started:
 
