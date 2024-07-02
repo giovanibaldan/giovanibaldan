@@ -26,75 +26,75 @@
   
   <tr align='center'>
     <td>
-      <img src="https://skillicons.dev/icons?i=js" width='120px'/>
+      <img src="https://skillicons.dev/icons?i=js" width='100px'/>
       <sub align="center">
-        <h2> <pre> <b>Javascript</b> </pre> </h2>
+        <h3> <pre> <b>Javascript</b> </pre> </h3>
       </sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html" width='120px'/>
+      <img src="https://skillicons.dev/icons?i=html" width='100px'/>
       <sub align="center">
-        <h2> <pre> <b>HTML5</b> </pre> </h2>
+        <h3> <pre> <b>HTML5</b> </pre> </h3>
       </sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=css" width='120px'/>
+      <img src="https://skillicons.dev/icons?i=css" width='100px'/>
       <sub align="center">
-        <h2> <pre> <b>CSS3</b> </pre> </h2>      </sub>
+        <h3> <pre> <b>CSS3</b> </pre> </h3>      </sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react" width='120px'/>
+      <img src="https://skillicons.dev/icons?i=react" width='100px'/>
       <sub align="center">
-        <h2> <pre> <b>REACT</b> </pre> </h2>      </sub>
+        <h3> <pre> <b>REACT</b> </pre> </h3>      </sub>
     </td>
   </tr>
   
   <tr align='center'>
     <td>
-      <img src="https://skillicons.dev/icons?i=java" width='120px'/>
+      <img src="https://skillicons.dev/icons?i=java" width='100px'/>
       <sub align="center">
-        <h2> <pre> <b>Java</b> </pre> </h2>
+        <h3> <pre> <b>Java</b> </pre> </h3>
       </sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python" width='120px'/>
+      <img src="https://skillicons.dev/icons?i=python" width='100px'/>
       <sub align="center">
-        <h2> <pre> <b>Python</b> </pre> </h2>
+        <h3> <pre> <b>Python</b> </pre> </h3>
       </sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs" width='120px'/>
+      <img src="https://skillicons.dev/icons?i=nodejs" width='100px'/>
       <sub align="center">
-        <h2> <pre> <b>NodeJS</b> </pre> </h2>      </sub>
+        <h3> <pre> <b>NodeJS</b> </pre> </h3>      </sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=gulp" width='120px'/>
+      <img src="https://skillicons.dev/icons?i=gulp" width='100px'/>
       <sub align="center">
-        <h2> <pre> <b>Gulp</b> </pre> </h2>      </sub>
+        <h3> <pre> <b>Gulp</b> </pre> </h3>      </sub>
     </td>
   
   <tr align='center'>
     <td>
-      <img src="https://skillicons.dev/icons?i=webpack" width='120px'/>
+      <img src="https://skillicons.dev/icons?i=webpack" width='100px'/>
       <sub align="center">
-        <h2> <pre> <b>Webpack</b> </pre> </h2>
+        <h3> <pre> <b>Webpack</b> </pre> </h3>
       </sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=jquery" width='120px'/>
+      <img src="https://skillicons.dev/icons?i=jquery" width='100px'/>
       <sub align="center">
-        <h2> <pre> <b>jQuery</b> </pre> </h2>
+        <h3> <pre> <b>jQuery</b> </pre> </h3>
       </sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=bootstrap" width='120px'/>
+      <img src="https://skillicons.dev/icons?i=bootstrap" width='100px'/>
       <sub align="center">
-        <h2> <pre> <b>Bootstrap</b> </pre> </h2>      </sub>
+        <h3> <pre> <b>Bootstrap</b> </pre> </h3>      </sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vue" width='120px'/>
+      <img src="https://skillicons.dev/icons?i=vue" width='100px'/>
       <sub align="center">
-        <h2> <pre> <b>VueJS</b> </pre> </h2>      </sub>
+        <h3> <pre> <b>VueJS</b> </pre> </h3>      </sub>
     </td>
   </tr>
   
