@@ -124,3 +124,5 @@
   </tr>
 
 </table>
+<br>
+<h2 align='left'>📧 Contato</h2>
