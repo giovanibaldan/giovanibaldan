@@ -22,35 +22,35 @@
 <br>
 
 <h2 align='left'>🛠 Tecnologias</h2>
-<table align="center" height="620px">
+<table align="center" height="590px">
 
   <tr align='center'>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js" width='100px'/>
+    <td >
+      <img src="https://skillicons.dev/icons?i=js" width='85px' />
       <sub>
         <h3><pre><b>Javascript</b></pre></h3>
       </sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html" width='100px'/>
+      <img src="https://skillicons.dev/icons?i=html" width='85px'/>
       <sub>
         <h3><pre><b>HTML5</b></pre></h3>
       </sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=css" width='100px'/>
+      <img src="https://skillicons.dev/icons?i=css" width='85px'/>
       <sub>
         <h3><pre><b>CSS3</b></pre></h3>
       </sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react" width='100px'/>
+      <img src="https://skillicons.dev/icons?i=react" width='85px'/>
       <sub>
         <h3><pre><b>REACT</b></pre></h3>
       </sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vue" width='100px'/>
+      <img src="https://skillicons.dev/icons?i=vue" width='85px'/>
       <sub>
         <h3><pre><b>VueJS</b></pre></h3>
       </sub>
@@ -59,31 +59,31 @@
 
   <tr align='center'>
     <td>
-      <img src="https://skillicons.dev/icons?i=java" width='100px'/>
+      <img src="https://skillicons.dev/icons?i=java" width='85px'/>
       <sub>
         <h3><pre><b>Java</b></pre></h3>
       </sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python" width='100px'/>
+      <img src="https://skillicons.dev/icons?i=python" width='85px'/>
       <sub>
         <h3><pre><b>Python</b></pre></h3>
       </sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs" width='100px'/>
+      <img src="https://skillicons.dev/icons?i=nodejs" width='85px'/>
       <sub>
         <h3><pre><b>Node.js</b></pre></h3>
       </sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mysql" width='100px'/>
+      <img src="https://skillicons.dev/icons?i=mysql" width='85px'/>
       <sub>
         <h3><pre><b>MySQL</b></pre></h3>
       </sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=gulp" width='100px'/>
+      <img src="https://skillicons.dev/icons?i=gulp" width='85px'/>
       <sub>
         <h3><pre><b>Gulp</b></pre></h3>
       </sub>
@@ -92,31 +92,31 @@
 
   <tr align='center'>
     <td>
-      <img src="https://skillicons.dev/icons?i=webpack" width='100px'/>
+      <img src="https://skillicons.dev/icons?i=webpack" width='85px'/>
       <sub>
         <h3><pre><b>Webpack</b></pre></h3>
       </sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=jquery" width='100px'/>
+      <img src="https://skillicons.dev/icons?i=jquery" width='85px'/>
       <sub>
         <h3><pre><b>jQuery</b></pre></h3>
       </sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=bootstrap" width='100px'/>
+      <img src="https://skillicons.dev/icons?i=bootstrap" width='85px'/>
       <sub>
         <h3><pre><b>Bootstrap</b></pre></h3>
       </sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nextjs" width='100px'/>
+      <img src="https://skillicons.dev/icons?i=nextjs" width='85px'/>
       <sub>
         <h3><pre><b>Next.js</b></pre></h3>
       </sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=angular" width='100px'/>
+      <img src="https://skillicons.dev/icons?i=angular" width='85px'/>
       <sub>
         <h3><pre><b>Angular 9</b></pre></h3>
       </sub>
