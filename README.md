@@ -23,6 +23,8 @@
 
 <h2 align='left'>🛠 Tecnologias</h2>
 <table align="center" height="620px">
+
+
   
   <tr align='center'>
     <td>
@@ -47,7 +49,14 @@
       <sub align="center">
         <h3> <pre> <b>REACT</b> </pre> </h3>      </sub>
     </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vue" width='100px'/>
+      <sub align="center">
+        <h3> <pre> <b>VueJS</b> </pre> </h3>      </sub>
+    </td>
   </tr>
+
+
   
   <tr align='center'>
     <td>
@@ -65,13 +74,21 @@
     <td>
       <img src="https://skillicons.dev/icons?i=nodejs" width='100px'/>
       <sub align="center">
-        <h3> <pre> <b>NodeJS</b> </pre> </h3>      </sub>
+        <h3> <pre> <b>Node.js</b> </pre> </h3>      </sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql" width='100px'/>
+      <sub align="center">
+        <h3> <pre> <b>MySQL</b> </pre> </h3>      </sub>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=gulp" width='100px'/>
       <sub align="center">
         <h3> <pre> <b>Gulp</b> </pre> </h3>      </sub>
     </td>
+  </tr>
+
+
   
   <tr align='center'>
     <td>
@@ -92,10 +109,16 @@
         <h3> <pre> <b>Bootstrap</b> </pre> </h3>      </sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vue" width='100px'/>
+      <img src="https://skillicons.dev/icons?i=nextjs" width='100px'/>
       <sub align="center">
-        <h3> <pre> <b>VueJS</b> </pre> </h3>      </sub>
+        <h3> <pre> <b>Next.js</b> </pre> </h3>      </sub>
     </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=angular" width='100px'/>
+      <sub align="center">
+        <h3> <pre> <b>Angular 9</b> </pre> </h3>      </sub>
+    </td>
+
   </tr>
   
 </table>
