@@ -16,7 +16,65 @@
   <li>👯 Em busca de uma vaga de estágio ou nível júnior na área de tecnologia</li>
   <br>
   <li>📚 Me aperfeiçoando em Front-end, Javascript e suas tecnologias</li>
+  <br>
+  <li>🔭 Trabalhando em projetos pessoais e finalizando um curso de Web Moderno Completo</li>
 </ul>
+<br>
+
+<h2 align='left'>🛠 Tecnologias</h2>
+<table align="center" height="1000px">
+  
+  <tr align='center'>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js" width='120px'/>
+      <sub align="center">
+        <h2> <pre> <b>Javascript</b> </pre> </h2>
+      </sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html" width='120px'/>
+      <sub align="center">
+        <h2> <pre> <b>HTML</b> </pre> </h2>
+      </sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=css" width='120px'/>
+      <sub align="center">
+        <h2> <pre> <b>CSS</b> </pre> </h2>      </sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" width='120px'/>
+      <sub align="center">
+        <h2> <pre> <b>REACT</b> </pre> </h2>      </sub>
+    </td>
+  </tr>
+  
+  <tr align='center'>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java" width='120px'/>
+      <sub align="center">
+        <h2> <pre> <b>Java</b> </pre> </h2>
+      </sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python" width='120px'/>
+      <sub align="center">
+        <h2> <pre> <b>Python</b> </pre> </h2>
+      </sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs" width='120px'/>
+      <sub align="center">
+        <h2> <pre> <b>NodeJS</b> </pre> </h2>      </sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=gulp" width='120px'/>
+      <sub align="center">
+        <h2> <pre> <b>Gulp</b> </pre> </h2>      </sub>
+    </td>
+  </tr>
+  
+</table>
 
 <!--Here are some ideas to get you started:
 
