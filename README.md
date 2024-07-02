@@ -7,7 +7,7 @@
 </a>
 
 <ul align='left'>
-  <li>🤍 Apaixonado por tecnologia, jogos e desenvolvimento</li>
+  <li>🤍 Apaixonado por tecnologia, jogos e desenvolvimento de software</li>
   <br>
   <li>🌱 Atualmente no 7º semestre do meu Bacharelado em Ciência da Computação</li>
   <br>
@@ -34,13 +34,13 @@
     <td>
       <img src="https://skillicons.dev/icons?i=html" width='120px'/>
       <sub align="center">
-        <h2> <pre> <b>HTML</b> </pre> </h2>
+        <h2> <pre> <b>HTML5</b> </pre> </h2>
       </sub>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=css" width='120px'/>
       <sub align="center">
-        <h2> <pre> <b>CSS</b> </pre> </h2>      </sub>
+        <h2> <pre> <b>CSS3</b> </pre> </h2>      </sub>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=react" width='120px'/>
@@ -71,6 +71,30 @@
       <img src="https://skillicons.dev/icons?i=gulp" width='120px'/>
       <sub align="center">
         <h2> <pre> <b>Gulp</b> </pre> </h2>      </sub>
+    </td>
+  
+  <tr align='center'>
+    <td>
+      <img src="https://skillicons.dev/icons?i=webpack" width='120px'/>
+      <sub align="center">
+        <h2> <pre> <b>Webpack</b> </pre> </h2>
+      </sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=jquery" width='120px'/>
+      <sub align="center">
+        <h2> <pre> <b>jQuery</b> </pre> </h2>
+      </sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=bootstrap" width='120px'/>
+      <sub align="center">
+        <h2> <pre> <b>Bootstrap</b> </pre> </h2>      </sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vue" width='120px'/>
+      <sub align="center">
+        <h2> <pre> <b>VueJS</b> </pre> </h2>      </sub>
     </td>
   </tr>
   
