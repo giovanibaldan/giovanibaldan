@@ -22,7 +22,10 @@
 <br>
 
 <h2 align='left'>🛠 Tecnologias</h2>
+
 <table align="center" height="590px">
+
+
 
   <tr align='center'>
     <td >
@@ -57,6 +60,8 @@
     </td>
   </tr>
 
+
+
   <tr align='center'>
     <td>
       <img src="https://skillicons.dev/icons?i=java" width='85px'/>
@@ -89,6 +94,8 @@
       </sub>
     </td>
   </tr>
+
+
 
   <tr align='center'>
     <td>
