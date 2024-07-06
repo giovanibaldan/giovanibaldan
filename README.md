@@ -1,5 +1,16 @@
 <h1 align='center'>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
-
+<table align="right">
+    <tr>
+        <td>
+            <img align='center' width='25px' height='25px' src="https://github.com/giovanibaldan/giovanibaldan/assets/47829957/2d926edf-dd74-4120-bc37-721d4b8bf589"/>
+            <a align='center' href="README.md"><b>Português</b></a>
+        </td>
+        <td>
+            <img align='center' width='25px' height='25px' src="https://github.com/giovanibaldan/giovanibaldan/assets/47829957/27bba4cd-711d-465f-9b37-98386cad3ff5"/>
+            <a align='center' href="README-EN.md">English</a>
+        </td>
+    </tr>
+</table>
 <h1 align="left">💫 Sobre mim:</h1>
 
 <a href="https://github.com/giovanibaldan/github-readme-stats">
