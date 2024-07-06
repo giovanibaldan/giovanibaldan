@@ -11,6 +11,7 @@
         </td>
     </tr>
 </table>
+<br clear='all'>
 <h1 align="left">💫 Sobre mim:</h1>
 
 <a href="https://github.com/giovanibaldan/github-readme-stats">
@@ -18,7 +19,7 @@
 </a>
 
 <p align='justify'>
-  Olá! Meu nome é Giovani e moro na zona sul de São Paulo. Sempre fui apaixonado por tecnologia e jogos, áreas nas quais adquiri diversas experiências ao longo da minha carreira. Atualmente, estou focado exclusivamente em minha trajetória como programador e engenheiro de software.
+Olá! Meu nome é Giovani e moro na zona sul de São Paulo. Sempre fui apaixonado por tecnologia e jogos, áreas nas quais adquiri diversas experiências ao longo da minha carreira. Atualmente, estou focado exclusivamente em minha trajetória como programador e engenheiro de software.
 </p>
 
 <h2 align='left'>🚀 O que estou fazendo:</h2>
