@@ -8,12 +8,7 @@
 </a>
 <br> <br> <br>
 <p align='justify'>
-  Sou formado em técnico em Administração e estou finalizando meu bacharelado em Ciência da
-Computação, atualmente no 7º semestre. Fundei e gerenciei uma empresa de comércio de 2019 a 2021.
-De 2022 a 2023, atuei como atleta profissional de E-Sports, desenvolvendo habilidades em trabalho em
-equipe e adaptação rápida. Atualmente, estou me especializando em Front-end e Full Stack e estou em
-busca de uma oportunidade de estágio ou posição Júnior para aplicar meu conhecimento técnico e
-minhas experiências.
+     Sou formado em técnico em Administração e estou finalizando meu bacharelado em Ciência da Computação, atualmente no 7º semestre. Já fundei e gerenciei uma empresa de comércio e atuei como atleta profissional de E-Sports, desenvolvendo habilidades em trabalho em equipe e adaptação rápida. Atualmente, estou me especializando em Front-end e Full Stack e estou em busca de uma oportunidade de estágio ou posição Júnior para aplicar meu conhecimento técnico e minhas experiências.
 </p>
 <!--<ul align='left'>
   <li>🤍 Apaixonado por tecnologia, jogos e desenvolvimento de software</li>
