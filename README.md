@@ -1,15 +1,19 @@
 <h1 align='center'>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
-<br>
 
-<h2 align='left'>👤 Sobre mim</h2>
+<h2 align='left'>💫 Sobre mim:</h2>
 
 <a href="https://github.com/giovanibaldan/github-readme-stats">
-  <img align="right" width='350px' height='300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanibaldan&layout=donut-vertical&theme=dark" />
+  <!--<img align="right" width='350px' height='300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanibaldan&layout=donut-vertical&theme=dark" />-->
+  <img align="right" width='350px' height='300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanibaldan&layout=compact&theme=dark" />
 </a>
-<br> <br> <br>
+
+<br>
+<br> <br>
+
 <p align='justify'>
      Sou formado em técnico em Administração e estou finalizando meu bacharelado em Ciência da Computação, atualmente no 7º semestre. Já fundei e gerenciei uma empresa de comércio e atuei como atleta profissional de E-Sports, desenvolvendo habilidades em trabalho em equipe e adaptação rápida. Atualmente, estou me especializando em Front-end e Full Stack e estou em busca de uma oportunidade de estágio ou posição Júnior para aplicar meu conhecimento técnico e minhas experiências.
 </p>
+
 <!--<ul align='left'>
   <li>🤍 Apaixonado por tecnologia, jogos e desenvolvimento de software</li>
   <br>
@@ -23,9 +27,13 @@
   <br>
   <li>🔭 Trabalhando em projetos pessoais e finalizando um curso de Web Moderno Completo</li>
 </ul> -->
-<br> <br> <br>
+<br>
+<!--
+<br> <br>
+-->
+<h2 align='left'>🚀 O que estou fazendo:</h2>
 
-<h2 align='left'>🛠 Tecnologias</h2>
+<h2 align='left'>🛠 Tecnologias:</h2>
 
 <table align="center" height="590px">
 
