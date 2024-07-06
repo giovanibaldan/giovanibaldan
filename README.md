@@ -135,9 +135,9 @@
       </sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=angular" width='85px'/>
+      <img src="https://skillicons.dev/icons?i=scss" width='85px'/>
       <sub>
-        <h3><pre><b>Angular 9</b></pre></h3>
+        <h3><pre><b>SCSS</b></pre></h3>
       </sub>
     </td>
   </tr>
