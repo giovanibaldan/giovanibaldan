@@ -6,8 +6,16 @@
 <a href="https://github.com/giovanibaldan/github-readme-stats">
   <img align="right" width='350px' height='300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanibaldan&layout=donut-vertical&theme=dark" />
 </a>
-
-<ul align='left'>
+<br> <br> <br>
+<p align='justify'>
+  Sou formado em técnico em Administração e estou finalizando meu bacharelado em Ciência da
+Computação, atualmente no 7º semestre. Fundei e gerenciei uma empresa de comércio de 2019 a 2021.
+De 2022 a 2023, atuei como atleta profissional de E-Sports, desenvolvendo habilidades em trabalho em
+equipe e adaptação rápida. Atualmente, estou me especializando em Front-end e Full Stack e estou em
+busca de uma oportunidade de estágio ou posição Júnior para aplicar meu conhecimento técnico e
+minhas experiências.
+</p>
+<!--<ul align='left'>
   <li>🤍 Apaixonado por tecnologia, jogos e desenvolvimento de software</li>
   <br>
   <li>🌱 Atualmente no 7º semestre do meu Bacharelado em Ciência da Computação</li>
@@ -19,8 +27,8 @@
   <li>📚 Me aperfeiçoando em Front-end, Javascript e suas tecnologias</li>
   <br>
   <li>🔭 Trabalhando em projetos pessoais e finalizando um curso de Web Moderno Completo</li>
-</ul>
-<br>
+</ul> -->
+<br> <br> <br>
 
 <h2 align='left'>🛠 Tecnologias</h2>
 
