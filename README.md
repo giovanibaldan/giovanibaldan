@@ -99,3 +99,5 @@ De uma olhada nos meus [projetos!](https://github.com/giovanibaldan?tab=reposito
 <h2 align='left'>🌐 Se conecte comigo:</h2>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanibaldan/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovanibaldan/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sXJm8Rnp7X)
