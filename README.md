@@ -69,11 +69,11 @@ De uma olhada nos meus [projetos!](https://github.com/giovanibaldan?tab=reposito
     <td><h3>Frameworks</h3></td>
     <td>
       <img src="https://skillicons.dev/icons?i=react" width='65px'/>
-      <pre><b>REACT</b></pre>
+      <pre><b>React</b></pre>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=vue" width='65px'/>
-      <pre><b>VueJS</b></pre>
+      <pre><b>Vue.js</b></pre>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=jquery" width='65px'/>
