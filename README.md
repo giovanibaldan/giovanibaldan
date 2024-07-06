@@ -96,4 +96,6 @@ De uma olhada nos meus [projetos!](https://github.com/giovanibaldan?tab=reposito
 
 <br clear="left">
 
-<h2 align='left'>📧 Contato</h2>
+<h2 align='left'>🌐 Se conecte comigo:</h2>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanibaldan/)
