@@ -74,6 +74,10 @@ De uma olhada nos meus [projetos!](https://github.com/giovanibaldan?tab=reposito
       <img src="https://skillicons.dev/icons?i=webpack" width='65px'/>
       <pre><b>Webpack</b></pre>
     </td>
+    <td>
+      <img src="https://github.com/giovanibaldan/giovanibaldan/assets/47829957/909a396d-7cc0-46d3-ae1d-d7e2f0400d29" width='65px'/>
+      <pre><b>Excel</b></pre>
+    </td>
   </tr>
 
   <tr align='center'>
