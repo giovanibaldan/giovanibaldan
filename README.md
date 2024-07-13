@@ -1,4 +1,5 @@
 <h1 align='center'>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+
 <table align="center">
     <tr>
         <td>
@@ -11,6 +12,7 @@
         </td>
     </tr>
 </table>
+
 <h1 align="left">💫 Sobre mim:</h1>
 
 <a href="https://github.com/giovanibaldan/github-readme-stats">
