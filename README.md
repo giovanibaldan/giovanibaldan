@@ -16,7 +16,7 @@
 <h1 align="left">💫 Sobre mim:</h1>
 
 <a href="https://github.com/giovanibaldan/github-readme-stats">
-  <img align="right" width='450px' height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanibaldan&layout=compact&theme=dark" />
+  <img align="right" width='450px' height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanibaldan&layout=compact&theme=dracula" />
 </a>
 
 <p align='justify'>
