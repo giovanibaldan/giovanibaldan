@@ -52,10 +52,6 @@ De uma olhada nos meus [projetos!](https://github.com/giovanibaldan?tab=reposito
       <img src="https://skillicons.dev/icons?i=java" width='65px'/>
       <pre><b>Java</b></pre>
     </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python" width='65px'/>
-      <pre><b>Python</b></pre>
-    </td>
   </tr>
 
   <tr align='center'>
@@ -99,10 +95,6 @@ De uma olhada nos meus [projetos!](https://github.com/giovanibaldan?tab=reposito
     <td>
       <img src="https://skillicons.dev/icons?i=bootstrap" width='65px'/>
       <pre><b>Bootstrap</b></pre>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nextjs" width='65px'/>
-      <pre><b>Next.js</b></pre>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=scss" width='65px'/>
