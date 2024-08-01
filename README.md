@@ -57,6 +57,10 @@ De uma olhada nos meus [projetos!](https://github.com/giovanibaldan?tab=reposito
   <tr align='center'>
     <td><h3>Ferramentas</h3></td>
     <td>
+      <img src="https://skillicons.dev/icons?i=git" width='65px'/>
+      <pre><b>Git</b></pre>
+    </td>
+    <td>
       <img src="https://skillicons.dev/icons?i=nodejs" width='65px'/>
       <pre><b>Node.js</b></pre>
     </td>
