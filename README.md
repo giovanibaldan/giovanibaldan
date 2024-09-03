@@ -104,6 +104,10 @@ De uma olhada nos meus [projetos!](https://github.com/giovanibaldan?tab=reposito
       <img src="https://skillicons.dev/icons?i=scss" width='65px'/>
       <pre><b>SCSS</b></pre>
     </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=materialui" width='65px'/>
+      <pre><b>MUI</b></pre>
+    </td>
   </tr>
 </table>
 
