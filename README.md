@@ -89,10 +89,6 @@ De uma olhada nos meus [projetos!](https://github.com/giovanibaldan?tab=reposito
       <pre><b>React</b></pre>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vue" width='65px'/>
-      <pre><b>Vue.js</b></pre>
-    </td>
-    <td>
       <img src="https://skillicons.dev/icons?i=jquery" width='65px'/>
       <pre><b>jQuery</b></pre>
     </td>
