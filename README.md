@@ -13,7 +13,7 @@
     </tr>
 </table>
 
-<h1 align="left">💫 Sobre mim:</h1>
+# 💫 Sobre mim:
 
 <a href="https://github.com/giovanibaldan/github-readme-stats">
   <img align="right" width='450px' height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanibaldan&layout=compact&theme=dracula" />
@@ -23,7 +23,9 @@
 Olá! Meu nome é Giovani e moro na zona sul de São Paulo. Sempre fui apaixonado por tecnologia e jogos, áreas nas quais adquiri diversas experiências ao longo da minha carreira. Atualmente, estou focado exclusivamente em minha trajetória como programador e engenheiro de software.
 </p>
 
-<h2 align='left'>🚀 O que estou fazendo:</h2>
+Você pode me ver meu currículo clicando [aqui](https://github.com/user-attachments/assets/db0f8d30-e208-409e-9862-09234205ad1c)
+
+## 🚀 O que estou fazendo:
 
 - Finalizando meu bacharelado em Ciência da Computação pela [Unip](https://www.unip.br)
 - Finalizando meu curso de Web Moderno Completo com JavaScript pela [Udemy](https://www.udemy.com/course/curso-web/?couponCode=PPINTENTP3)
@@ -31,7 +33,7 @@ Olá! Meu nome é Giovani e moro na zona sul de São Paulo. Sempre fui apaixonad
 
 De uma olhada nos meus [projetos!](https://github.com/giovanibaldan?tab=repositories)
 
-<h2 align='left'>🛠 Tecnologias:</h2>
+## 🛠 Tecnologias:
 
 <table align="left" height="410px">
   <tr align='center'>
@@ -109,7 +111,7 @@ De uma olhada nos meus [projetos!](https://github.com/giovanibaldan?tab=reposito
 
 <br clear="left">
 
-<h2 align='left'>🌐 Se conecte comigo:</h2>
+## 🌐 Se conecte comigo:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanibaldan/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovanibaldan/)
