@@ -23,8 +23,6 @@
 Olá! Meu nome é Giovani e moro na zona sul de São Paulo. Sempre fui apaixonado por tecnologia e jogos, áreas nas quais adquiri diversas experiências ao longo da minha carreira. Atualmente, estou focado exclusivamente em minha trajetória como programador e engenheiro de software.
 </p>
 
-Você pode visualizar meu currículo clicando [aqui](https://github.com/user-attachments/assets/db0f8d30-e208-409e-9862-09234205ad1c)
-
 ## 🚀 O que estou fazendo:
 
 - Finalizando meu bacharelado em Ciência da Computação pela [Unip](https://www.unip.br)
