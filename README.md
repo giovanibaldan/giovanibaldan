@@ -27,7 +27,7 @@ Olá! Meu nome é Giovani e moro na zona sul de São Paulo. Sempre fui apaixonad
 
 - Finalizando meu bacharelado em Ciência da Computação pela [Unip](https://www.unip.br)
 - Finalizando meu curso de Web Moderno Completo com JavaScript pela [Udemy](https://www.udemy.com/course/curso-web/?couponCode=PPINTENTP3)
-- Em busca de uma oportunidade de estágio ou posição Júnior para aplicar meu conhecimento técnico e minhas experiências
+- Atualmente trabalhando como Estágiario de Engenharia de Software na @ Capim
 
 De uma olhada nos meus [projetos!](https://github.com/giovanibaldan?tab=repositories)
 
