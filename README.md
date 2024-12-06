@@ -73,10 +73,6 @@ De uma olhada nos meus [projetos!](https://github.com/giovanibaldan?tab=reposito
       <pre><b>MySQL</b></pre>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=gulp" width='65px'/>
-      <pre><b>Gulp</b></pre>
-    </td>
-    <td>
       <img src="https://github.com/giovanibaldan/giovanibaldan/assets/47829957/909a396d-7cc0-46d3-ae1d-d7e2f0400d29" width='65px'/>
       <pre><b>Excel</b></pre>
     </td>
@@ -93,20 +89,12 @@ De uma olhada nos meus [projetos!](https://github.com/giovanibaldan?tab=reposito
       <pre><b>React</b></pre>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=jquery" width='65px'/>
-      <pre><b>jQuery</b></pre>
-    </td>
-    <td>
       <img src="https://skillicons.dev/icons?i=bootstrap" width='65px'/>
       <pre><b>Bootstrap</b></pre>
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=scss" width='65px'/>
       <pre><b>SCSS</b></pre>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=materialui" width='65px'/>
-      <pre><b>MUI</b></pre>
     </td>
   </tr>
 </table>
