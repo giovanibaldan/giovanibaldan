@@ -49,6 +49,10 @@ De uma olhada nos meus [projetos!](https://github.com/giovanibaldan?tab=reposito
       <pre><b>CSS3</b></pre>
     </td>
     <td>
+      <img src="https://skillicons.dev/icons?i=ruby" width='65px'/>
+      <pre><b>Ruby</b></pre>
+    </td>
+    <td>
       <img src="https://skillicons.dev/icons?i=java" width='65px'/>
       <pre><b>Java</b></pre>
     </td>
@@ -85,6 +89,14 @@ De uma olhada nos meus [projetos!](https://github.com/giovanibaldan?tab=reposito
   <tr align='center'>
     <td><h3>Frameworks</h3></td>
     <td>
+      <img src="https://skillicons.dev/icons?i=vue" width='65px'/>
+      <pre><b>Vue</b></pre>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=rails" width='65px'/>
+      <pre><b>Rails</b></pre>
+    </td>
+    <td>
       <img src="https://skillicons.dev/icons?i=react" width='65px'/>
       <pre><b>React</b></pre>
     </td>
@@ -106,5 +118,3 @@ De uma olhada nos meus [projetos!](https://github.com/giovanibaldan?tab=reposito
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanibaldan/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovanibaldan/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sXJm8Rnp7X)
-
-[Ícones](https://www.flaticon.com/br/)
