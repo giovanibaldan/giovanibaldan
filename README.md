@@ -53,10 +53,6 @@ De uma olhada nos meus [projetos!](https://github.com/giovanibaldan?tab=reposito
       <pre><b>Ruby</b></pre>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=java" width='65px'/>
-      <pre><b>Java</b></pre>
-    </td>
-    <td>
       <img src="https://skillicons.dev/icons?i=python" width='65px'/>
       <pre><b>Python</b></pre>
     </td>
